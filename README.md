@@ -1,6 +1,6 @@
 # How to Rotate Laptop Screen?
 
-[![how to rotate laptop screen](redd.png)](https://github.com/websitetech/how.to.rotate.laptop.screen)
+[![how to rotate laptop screen](redd.png)](https://icncomputer.com/how-to-rotate-laptop-screen/)
 
 
 
